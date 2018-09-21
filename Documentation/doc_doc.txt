@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ola boa noite qualquer coisa
+=======
+qualquer coisa
+>>>>>>> 00f5511eeb036cc9a5f3c2a145823c6b053bcf4d
